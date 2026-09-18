@@ -1,0 +1,61 @@
+name,type,difficulty,description,is_technology
+Java,language,1,General-purpose programming language,True
+Python,language,1,General-purpose language widely used in data and AI,True
+JavaScript,language,1,Programming language for web applications,True
+HTML,concept,1,Markup language for structuring web pages,False
+CSS,concept,1,Styling language for web interfaces,False
+SQL,language,1,Language for querying relational databases,True
+Git,tool,1,Version control system,True
+OOP,concept,1,Object-oriented programming concepts,False
+Data Structures,concept,2,Core structures for organizing and processing data,False
+React,framework,2,Frontend library for interactive user interfaces,True
+Node.js,framework,2,JavaScript runtime for server-side applications,True
+Express.js,framework,2,Web framework for Node.js,True
+REST API,concept,2,Design of HTTP-based web APIs,False
+MongoDB,tool,2,NoSQL document database,True
+Spring Boot,framework,2,Java framework for backend applications,True
+MySQL,tool,2,Relational database system,True
+Pandas,library,2,Python library for data manipulation,True
+NumPy,library,2,Python library for numerical computing,True
+Matplotlib,library,2,Python library for data visualization,True
+Statistics,concept,2,Methods for describing and analyzing data,False
+Machine Learning,concept,2,Algorithms that learn patterns from data,False
+Scikit-learn,library,2,Python machine learning library,True
+Neural Networks,concept,3,Computational models inspired by connected neurons,False
+Cybersecurity Basics,concept,1,Fundamental security concepts and practices,False
+Linux,tool,2,Linux operating system and command-line environment,True
+Docker,tool,2,Containerization platform,True
+CI/CD,concept,2,"Automated build, test, and deployment practices",False
+AWS Basics,tool,2,Fundamentals of AWS cloud services,True
+Android,framework,2,Platform for Android mobile applications,True
+Kotlin,language,2,Programming language commonly used for Android,True
+TypeScript,language,2,Typed programming language based on JavaScript,True
+Bootstrap,framework,1,Frontend framework for responsive web interfaces,True
+Angular,framework,2,Framework for building web applications,True
+Next.js,framework,2,React framework for web applications,True
+Tailwind CSS,framework,2,Utility-first framework for styling web interfaces,True
+PostgreSQL,tool,2,Relational database management system,True
+Redis,tool,2,In-memory data store used for fast data access,True
+GraphQL,concept,2,Query language and API approach for retrieving data,False
+JWT Authentication,concept,2,Token-based authentication mechanism for web applications,False
+Seaborn,library,2,Python library for statistical data visualization,True
+Data Cleaning,concept,2,Process of detecting and correcting data quality issues,False
+Data Visualization,concept,2,Techniques for representing data visually,False
+Feature Engineering,concept,3,Process of creating useful features from raw data,False
+Deep Learning,concept,3,Machine learning approach based on neural networks,False
+TensorFlow,library,3,Framework for building and training machine learning models,True
+PyTorch,library,3,Deep learning framework for building neural network models,True
+Natural Language Processing,concept,3,Techniques for processing and understanding human language,False
+Computer Vision,concept,3,Techniques for processing and understanding visual data,False
+Cryptography,concept,3,Techniques for protecting information using mathematical methods,False
+Network Security,concept,2,Practices for protecting computer networks from threats,False
+Ethical Hacking,concept,3,Authorized security testing to identify vulnerabilities,False
+Web Security,concept,2,Practices for protecting web applications from security threats,False
+Security Testing,concept,3,Testing methods used to identify security weaknesses,False
+Azure Basics,tool,2,Fundamentals of Microsoft Azure cloud services,True
+Google Cloud Basics,tool,2,Fundamentals of Google Cloud services,True
+Cloud Storage,concept,1,Storage of data using cloud-based services,False
+Jenkins,tool,2,Automation server used for continuous integration and delivery,True
+Kubernetes,tool,3,Platform for managing containerized applications,True
+Terraform,tool,3,Infrastructure as code tool for managing cloud resources,True
+Ansible,tool,3,Automation tool for configuring and managing systems,True

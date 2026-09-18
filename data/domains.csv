@@ -1,0 +1,11 @@
+name,description,parent_domain
+Web Development,Building web applications and services,
+Frontend,Client-side web interfaces,Web Development
+Backend,Server-side applications and APIs,Web Development
+Data Science,Data analysis and data-driven applications,
+AI,Artificial intelligence and intelligent systems,
+Machine Learning,Learning algorithms and predictive systems,AI
+Cybersecurity,"Security of systems, networks, and applications",
+Cloud,Cloud platforms and services,
+DevOps,Development and operations automation,
+Mobile,Mobile application development,

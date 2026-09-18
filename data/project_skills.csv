@@ -1,0 +1,121 @@
+project,skill,importance
+Personal Portfolio Website,HTML,core
+Personal Portfolio Website,CSS,core
+Personal Portfolio Website,JavaScript,core
+Personal Portfolio Website,Git,supporting
+Student Task Manager,HTML,core
+Student Task Manager,CSS,core
+Student Task Manager,JavaScript,core
+Student Task Manager,Node.js,core
+Student Task Manager,Express.js,core
+Student Task Manager,MongoDB,supporting
+Campus Placement Tracker,Java,core
+Campus Placement Tracker,OOP,core
+Campus Placement Tracker,Spring Boot,core
+Campus Placement Tracker,REST API,core
+Campus Placement Tracker,MySQL,core
+Campus Placement Tracker,Git,supporting
+REST API for Student Records,Java,core
+REST API for Student Records,OOP,core
+REST API for Student Records,Spring Boot,core
+REST API for Student Records,REST API,core
+REST API for Student Records,MySQL,core
+REST API for Student Records,Git,supporting
+Expense Analyzer,Python,core
+Expense Analyzer,Pandas,core
+Expense Analyzer,NumPy,core
+Expense Analyzer,Matplotlib,core
+Expense Analyzer,SQL,supporting
+Student Performance Predictor,Python,core
+Student Performance Predictor,Pandas,core
+Student Performance Predictor,Statistics,core
+Student Performance Predictor,Machine Learning,core
+Student Performance Predictor,Scikit-learn,core
+Student Performance Predictor,Matplotlib,supporting
+Secure Password Checker,Python,core
+Secure Password Checker,Cybersecurity Basics,core
+Secure Password Checker,Git,supporting
+Cloud File Manager,REST API,core
+Cloud File Manager,AWS Basics,core
+Cloud File Manager,Cloud Storage,core
+Cloud File Manager,Python,supporting
+Dockerized Web App,Node.js,core
+Dockerized Web App,Express.js,core
+Dockerized Web App,Docker,core
+Dockerized Web App,CI/CD,supporting
+Android Student Notes App,Android,core
+Android Student Notes App,Kotlin,core
+Android Student Notes App,Git,supporting
+E-Commerce Product Catalog,HTML,core
+E-Commerce Product Catalog,CSS,core
+E-Commerce Product Catalog,JavaScript,core
+E-Commerce Product Catalog,React,core
+E-Commerce Product Catalog,Git,supporting
+Online Book Review System,HTML,core
+Online Book Review System,CSS,core
+Online Book Review System,JavaScript,core
+Online Book Review System,Node.js,core
+Online Book Review System,Express.js,core
+Online Book Review System,MongoDB,core
+Student Attendance Analytics,Python,core
+Student Attendance Analytics,Pandas,core
+Student Attendance Analytics,Data Cleaning,core
+Student Attendance Analytics,Data Visualization,core
+Student Attendance Analytics,Seaborn,supporting
+Sales Prediction System,Python,core
+Sales Prediction System,Pandas,core
+Sales Prediction System,Feature Engineering,core
+Sales Prediction System,Machine Learning,core
+Sales Prediction System,Scikit-learn,core
+Sales Prediction System,Matplotlib,supporting
+Network Security Monitor,Python,core
+Network Security Monitor,Cybersecurity Basics,core
+Network Security Monitor,Network Security,core
+Network Security Monitor,Linux,supporting
+Cloud Resource Monitor,Python,core
+Cloud Resource Monitor,AWS Basics,core
+Cloud Resource Monitor,Cloud Storage,core
+Cloud Resource Monitor,Data Visualization,supporting
+CI/CD Automation Pipeline,Git,core
+CI/CD Automation Pipeline,CI/CD,core
+CI/CD Automation Pipeline,Jenkins,core
+CI/CD Automation Pipeline,Docker,supporting
+AI Image Classification System,Python,core
+AI Image Classification System,Computer Vision,core
+AI Image Classification System,Deep Learning,core
+AI Image Classification System,TensorFlow,core
+AI Image Classification System,NumPy,supporting
+Natural Language Text Analyzer,Python,core
+Natural Language Text Analyzer,Natural Language Processing,core
+Natural Language Text Analyzer,Machine Learning,core
+Natural Language Text Analyzer,Scikit-learn,supporting
+Secure Web Application,JavaScript,core
+Secure Web Application,REST API,core
+Secure Web Application,Web Security,core
+Secure Web Application,Security Testing,core
+Secure Web Application,JWT Authentication,supporting
+REST API with PostgreSQL,Node.js,core
+REST API with PostgreSQL,Express.js,core
+REST API with PostgreSQL,REST API,core
+REST API with PostgreSQL,PostgreSQL,core
+REST API with PostgreSQL,Git,supporting
+GraphQL Student Service,Node.js,core
+GraphQL Student Service,Express.js,core
+GraphQL Student Service,GraphQL,core
+GraphQL Student Service,REST API,supporting
+GraphQL Student Service,MongoDB,supporting
+Frontend Dashboard with Next.js,HTML,core
+Frontend Dashboard with Next.js,CSS,core
+Frontend Dashboard with Next.js,JavaScript,core
+Frontend Dashboard with Next.js,React,core
+Frontend Dashboard with Next.js,Next.js,core
+Frontend Dashboard with Next.js,TypeScript,supporting
+Kubernetes Application Deployment,Docker,core
+Kubernetes Application Deployment,Kubernetes,core
+Kubernetes Application Deployment,Linux,core
+Kubernetes Application Deployment,CI/CD,supporting
+Infrastructure Automation Project,AWS Basics,core
+Infrastructure Automation Project,Terraform,core
+Infrastructure Automation Project,Ansible,core
+Infrastructure Automation Project,Linux,core
+Infrastructure Automation Project,Cloud Storage,supporting

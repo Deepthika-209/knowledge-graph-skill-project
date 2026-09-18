@@ -1,0 +1,85 @@
+skill_a,skill_b,strength
+Java,OOP,0.9
+Java,Data Structures,0.8
+Java,Spring Boot,0.8
+Python,Pandas,0.9
+Python,NumPy,0.9
+Python,Machine Learning,0.8
+JavaScript,HTML,0.8
+JavaScript,CSS,0.8
+JavaScript,React,0.9
+JavaScript,Node.js,0.9
+HTML,CSS,0.9
+HTML,React,0.7
+CSS,React,0.8
+CSS,Bootstrap,0.8
+CSS,Tailwind CSS,0.8
+SQL,MySQL,0.9
+SQL,PostgreSQL,0.9
+Git,CI/CD,0.9
+Git,Jenkins,0.8
+OOP,Data Structures,0.8
+Data Structures,Machine Learning,0.6
+React,Next.js,0.9
+React,Angular,0.7
+Node.js,Express.js,0.9
+Node.js,REST API,0.8
+Express.js,REST API,0.9
+MongoDB,Redis,0.7
+Spring Boot,REST API,0.8
+MySQL,PostgreSQL,0.8
+Pandas,NumPy,0.8
+Pandas,Matplotlib,0.8
+Pandas,Seaborn,0.8
+NumPy,Matplotlib,0.8
+Matplotlib,Data Visualization,0.9
+Statistics,Machine Learning,0.9
+Statistics,Data Visualization,0.6
+Machine Learning,Scikit-learn,0.9
+Machine Learning,Neural Networks,0.8
+Machine Learning,Feature Engineering,0.9
+Machine Learning,Deep Learning,0.8
+Scikit-learn,TensorFlow,0.7
+Scikit-learn,PyTorch,0.7
+Neural Networks,Deep Learning,0.9
+TensorFlow,PyTorch,0.8
+Natural Language Processing,Machine Learning,0.8
+Computer Vision,Deep Learning,0.8
+Cybersecurity Basics,Network Security,0.9
+Cybersecurity Basics,Cryptography,0.8
+Network Security,Web Security,0.8
+Network Security,Ethical Hacking,0.9
+Web Security,Security Testing,0.9
+Linux,Docker,0.9
+Linux,Ansible,0.8
+Docker,Kubernetes,0.9
+Kubernetes,Terraform,0.8
+Kubernetes,Ansible,0.7
+AWS Basics,Azure Basics,0.8
+AWS Basics,Google Cloud Basics,0.8
+AWS Basics,Cloud Storage,0.8
+Azure Basics,Google Cloud Basics,0.8
+Cloud Storage,Terraform,0.7
+CI/CD,Jenkins,0.9
+TypeScript,JavaScript,0.9
+TypeScript,React,0.8
+Bootstrap,Tailwind CSS,0.7
+Angular,TypeScript,0.8
+Next.js,TypeScript,0.8
+PostgreSQL,Redis,0.6
+GraphQL,REST API,0.8
+GraphQL,Node.js,0.7
+JWT Authentication,REST API,0.8
+JWT Authentication,Web Security,0.7
+Data Cleaning,Pandas,0.9
+Data Cleaning,Data Visualization,0.6
+Data Visualization,Seaborn,0.8
+Feature Engineering,Scikit-learn,0.8
+Deep Learning,Natural Language Processing,0.8
+TensorFlow,Neural Networks,0.8
+PyTorch,Neural Networks,0.8
+Cryptography,Network Security,0.8
+Ethical Hacking,Security Testing,0.9
+Jenkins,Docker,0.7
+Terraform,Ansible,0.8
+Android,Kotlin,0.9

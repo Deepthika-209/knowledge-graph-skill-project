@@ -1,0 +1,61 @@
+skill,domain,relevance
+Java,Web Development,0.8
+Python,Data Science,0.9
+JavaScript,Frontend,0.9
+HTML,Frontend,0.9
+CSS,Frontend,0.9
+SQL,Backend,0.9
+Git,DevOps,0.8
+OOP,Backend,0.8
+Data Structures,Web Development,0.7
+React,Frontend,0.9
+Node.js,Backend,0.9
+Express.js,Backend,0.9
+REST API,Backend,0.9
+MongoDB,Backend,0.8
+Spring Boot,Backend,0.9
+MySQL,Backend,0.9
+Pandas,Data Science,0.9
+NumPy,Data Science,0.9
+Matplotlib,Data Science,0.8
+Statistics,Data Science,0.9
+Machine Learning,Machine Learning,0.9
+Scikit-learn,Machine Learning,0.9
+Neural Networks,AI,0.9
+Cybersecurity Basics,Cybersecurity,0.9
+Linux,DevOps,0.8
+Docker,DevOps,0.9
+CI/CD,DevOps,0.9
+AWS Basics,Cloud,0.9
+Android,Mobile,0.9
+Kotlin,Mobile,0.9
+TypeScript,Frontend,0.9
+Bootstrap,Frontend,0.8
+Angular,Frontend,0.9
+Next.js,Frontend,0.9
+Tailwind CSS,Frontend,0.8
+PostgreSQL,Backend,0.9
+Redis,Backend,0.8
+GraphQL,Backend,0.8
+JWT Authentication,Backend,0.8
+Seaborn,Data Science,0.8
+Data Cleaning,Data Science,0.9
+Data Visualization,Data Science,0.9
+Feature Engineering,Data Science,0.9
+Deep Learning,AI,0.9
+TensorFlow,Machine Learning,0.9
+PyTorch,Machine Learning,0.9
+Natural Language Processing,AI,0.9
+Computer Vision,AI,0.9
+Cryptography,Cybersecurity,0.9
+Network Security,Cybersecurity,0.9
+Ethical Hacking,Cybersecurity,0.9
+Web Security,Cybersecurity,0.9
+Security Testing,Cybersecurity,0.9
+Azure Basics,Cloud,0.9
+Google Cloud Basics,Cloud,0.9
+Cloud Storage,Cloud,0.8
+Jenkins,DevOps,0.9
+Kubernetes,DevOps,0.9
+Terraform,DevOps,0.9
+Ansible,DevOps,0.9

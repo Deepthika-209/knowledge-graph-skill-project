@@ -1,0 +1,62 @@
+skill,prerequisite,strength
+Java,OOP,0.8
+Python,Data Structures,0.6
+JavaScript,HTML,0.7
+JavaScript,CSS,0.7
+SQL,Data Structures,0.5
+React,JavaScript,0.9
+Node.js,JavaScript,0.9
+Express.js,Node.js,0.9
+REST API,Node.js,0.7
+MongoDB,JavaScript,0.6
+Spring Boot,Java,0.9
+Spring Boot,OOP,0.9
+MySQL,SQL,0.9
+Pandas,Python,0.9
+NumPy,Python,0.9
+Matplotlib,Python,0.8
+Statistics,Python,0.5
+Machine Learning,Python,0.9
+Machine Learning,Statistics,0.9
+Scikit-learn,Machine Learning,0.9
+Neural Networks,Machine Learning,0.9
+Linux,Data Structures,0.5
+Docker,Linux,0.8
+CI/CD,Git,0.8
+AWS Basics,Linux,0.6
+Kotlin,Android,0.8
+TypeScript,JavaScript,0.9
+Angular,TypeScript,0.9
+Next.js,React,0.9
+Tailwind CSS,CSS,0.8
+PostgreSQL,SQL,0.9
+Redis,Node.js,0.7
+GraphQL,REST API,0.8
+JWT Authentication,REST API,0.8
+Seaborn,Pandas,0.8
+Data Cleaning,Pandas,0.8
+Data Visualization,Matplotlib,0.8
+Feature Engineering,Machine Learning,0.8
+Deep Learning,Neural Networks,0.9
+TensorFlow,Machine Learning,0.9
+TensorFlow,Python,0.8
+PyTorch,Machine Learning,0.9
+PyTorch,Python,0.8
+Natural Language Processing,Python,0.8
+Natural Language Processing,Machine Learning,0.7
+Computer Vision,Python,0.8
+Computer Vision,Machine Learning,0.7
+Cryptography,Cybersecurity Basics,0.8
+Network Security,Cybersecurity Basics,0.9
+Ethical Hacking,Network Security,0.9
+Web Security,Network Security,0.8
+Security Testing,Web Security,0.9
+Azure Basics,Linux,0.6
+Google Cloud Basics,Linux,0.6
+Cloud Storage,AWS Basics,0.7
+Jenkins,Git,0.8
+Jenkins,CI/CD,0.8
+Kubernetes,Docker,0.9
+Terraform,Cloud Storage,0.7
+Terraform,AWS Basics,0.7
+Ansible,Linux,0.9

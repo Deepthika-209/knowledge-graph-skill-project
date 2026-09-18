@@ -1,0 +1,26 @@
+title,domain,difficulty,type,description
+Personal Portfolio Website,Frontend,1,Web Application,Responsive personal portfolio website showcasing skills and projects
+Student Task Manager,Web Development,2,Web Application,Web application for creating and managing student tasks
+Campus Placement Tracker,Backend,2,Web Application,Application for tracking placement applications and status
+REST API for Student Records,Backend,2,API Project,REST API for managing student academic records
+Expense Analyzer,Data Science,2,Data Analysis Project,Application for analyzing and visualizing personal expenses
+Student Performance Predictor,Machine Learning,3,Machine Learning Project,Machine learning system for predicting student academic performance
+Secure Password Checker,Cybersecurity,2,Security Application,Application for evaluating password security and identifying weak passwords
+Cloud File Manager,Cloud,2,Cloud Application,Application for uploading and managing files using cloud storage
+Dockerized Web App,DevOps,2,DevOps Project,Web application packaged and managed using Docker
+Android Student Notes App,Mobile,2,Mobile Application,Android application for creating and managing student notes
+E-Commerce Product Catalog,Frontend,2,Web Application,Frontend application for browsing and filtering products
+Online Book Review System,Web Development,2,Web Application,Web application for managing books and user reviews
+Student Attendance Analytics,Data Science,2,Data Analysis Project,Application for analyzing student attendance data and generating visual reports
+Sales Prediction System,Machine Learning,3,Machine Learning Project,Machine learning system for predicting future sales from historical data
+Network Security Monitor,Cybersecurity,3,Security Application,Application for monitoring network activity and identifying suspicious patterns
+Cloud Resource Monitor,Cloud,2,Cloud Application,Application for monitoring cloud resource usage and storage
+CI/CD Automation Pipeline,DevOps,3,DevOps Project,Automated pipeline for building testing and deploying an application
+Kubernetes Application Deployment,DevOps,3,DevOps Project,Containerized application deployed and managed using Kubernetes
+AI Image Classification System,AI,3,AI Project,System for classifying images using deep learning techniques
+Natural Language Text Analyzer,AI,3,AI Project,Application for analyzing and processing text using natural language processing
+Secure Web Application,Cybersecurity,3,Security Application,Web application demonstrating common security practices and security testing
+REST API with PostgreSQL,Backend,2,API Project,Backend API connected to a PostgreSQL relational database
+GraphQL Student Service,Backend,2,API Project,Student information service implemented using GraphQL
+Frontend Dashboard with Next.js,Frontend,2,Web Application,Interactive dashboard built using Next.js and modern frontend technologies
+Infrastructure Automation Project,Cloud,3,Cloud DevOps Project,Cloud infrastructure managed using infrastructure as code and automation
