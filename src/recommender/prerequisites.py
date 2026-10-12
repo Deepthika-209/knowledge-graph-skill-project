@@ -1,12 +1,14 @@
-from src.knowledge_graph import build_knowledge_graph
+﻿from src.knowledge_graph import build_knowledge_graph
 from src.recommender.skill_candidates import get_candidate_skills
 
 
 # Build the Knowledge Graph
-kg = build_knowledge_graph()
+
 
 
 def check_prerequisites(student_id, skill_name):
+    kg = build_knowledge_graph()
+
     """
     Check whether a student has the prerequisites
     required for a particular skill.

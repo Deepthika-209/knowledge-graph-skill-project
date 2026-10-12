@@ -3,11 +3,11 @@ from src.recommender.skill_candidates import get_candidate_skills
 from src.recommender.prerequisites import check_prerequisites
 
 
-# Build the Knowledge Graph
-kg = build_knowledge_graph()
+
 
 
 def calculate_skill_score(student_id, skill_name, relatedness):
+    kg = build_knowledge_graph()
     """
     Calculate the initial score of a skill
     using Relatedness, Readiness, and Domain Fit.
@@ -115,6 +115,7 @@ def calculate_skill_score(student_id, skill_name, relatedness):
 
 
 if __name__ == "__main__":
+    kg = build_knowledge_graph()
 
     print("\nDOMAIN HIERARCHY CHECK")
 

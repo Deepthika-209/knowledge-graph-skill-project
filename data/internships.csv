@@ -1,0 +1,11 @@
+internship_id,title,company,domain,level,duration_months,location,mode,url
+I001,Java Developer Intern,Tech Solutions,Programming,Beginner,3,India,Remote,https://example.com
+I002,Python Developer Intern,DataWorks,Programming,Beginner,3,India,Remote,https://example.com
+I003,Data Science Intern,DataLabs,Data Science,Intermediate,6,India,Hybrid,https://example.com
+I004,Machine Learning Intern,AI Labs,Machine Learning,Intermediate,6,India,Remote,https://example.com
+I005,AI Research Intern,AI Research Hub,Artificial Intelligence,Advanced,6,India,Hybrid,https://example.com
+I006,Web Development Intern,WebTech,Web Development,Beginner,3,India,Remote,https://example.com
+I007,Full Stack Development Intern,Tech Innovations,Web Development,Intermediate,6,India,Hybrid,https://example.com
+I008,Database Developer Intern,Data Systems,Database,Beginner,3,India,Remote,https://example.com
+I009,Deep Learning Intern,Vision AI,Artificial Intelligence,Advanced,6,India,Hybrid,https://example.com
+I010,Software Engineering Intern,Software Labs,Computer Science,Intermediate,6,India,On-site,https://example.com

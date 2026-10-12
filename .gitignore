@@ -1,4 +1,24 @@
 ﻿venv/
+.venv/
 __pycache__/
-*.pyc
-.streamlit/
+*.py[cod]
+*.db
+*.sqlite
+*.sqlite3
+.env
+.env.*
+!.env.example
+database/student_knowledge_graph.html
+.git/
+
+# Generated graph visualization
+/knowledge_graph.html
+
+# Generated graph visualizations
+/knowledge_graph.html
+/database/student_knowledge_graph.html
+
+# Generated graph files
+/knowledge_graph.html
+/database/student_knowledge_graph.html
+/data/student_knowledge_graph.html

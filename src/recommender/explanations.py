@@ -1,7 +1,7 @@
 from src.knowledge_graph import build_knowledge_graph
 
 
-kg = build_knowledge_graph()
+
 
 
 # --------------------------------------------------
@@ -9,6 +9,7 @@ kg = build_knowledge_graph()
 # --------------------------------------------------
 
 def explain_skill_recommendation(student_id, skill_name):
+    kg = build_knowledge_graph()
 
     student_node = f"student:{student_id}"
     skill_node = f"skill:{skill_name}"
@@ -261,6 +262,7 @@ def explain_project_recommendation(
     student_id,
     project_name
 ):
+    kg = build_knowledge_graph()
 
     student_node = f"student:{student_id}"
     project_node = f"project:{project_name}"

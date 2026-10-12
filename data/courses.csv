@@ -1,0 +1,11 @@
+course_id,title,platform,domain,level,duration_hours,url
+C001,Java Programming Basics,YouTube,Programming,Beginner,12,https://www.youtube.com/
+C002,Data Structures and Algorithms,GeeksforGeeks,Computer Science,Beginner,25,https://www.geeksforgeeks.org/
+C003,Python for Beginners,freeCodeCamp,Programming,Beginner,15,https://www.freecodecamp.org/
+C004,Statistics Fundamentals,Khan Academy,Data Science,Beginner,18,https://www.khanacademy.org/
+C005,Machine Learning Fundamentals,edX,Machine Learning,Intermediate,30,https://www.edx.org/
+C006,Neural Networks Fundamentals,YouTube,Artificial Intelligence,Intermediate,15,https://www.youtube.com/
+C007,Deep Learning Fundamentals,DeepLearning.AI,Artificial Intelligence,Advanced,35,https://www.deeplearning.ai/
+C008,Web Development Fundamentals,freeCodeCamp,Web Development,Beginner,20,https://www.freecodecamp.org/
+C009,JavaScript Fundamentals,MDN Web Docs,Web Development,Beginner,12,https://developer.mozilla.org/
+C010,SQL and Database Fundamentals,Khan Academy,Database,Beginner,15,https://www.khanacademy.org/
