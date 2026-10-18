@@ -3,11 +3,10 @@ from src.knowledge_graph import build_knowledge_graph
 from src.recommender.project_candidates import get_project_candidates
 
 
-# --------------------------------------------------
-# BUILD KNOWLEDGE GRAPH
-# --------------------------------------------------
 
-kg = build_knowledge_graph()
+
+
+
 
 
 # --------------------------------------------------
@@ -15,6 +14,8 @@ kg = build_knowledge_graph()
 # --------------------------------------------------
 
 def calculate_project_score(student_id, candidate):
+    kg = build_knowledge_graph()
+
 
     # --------------------------------------------------
     # 1. GET PROJECT INFORMATION

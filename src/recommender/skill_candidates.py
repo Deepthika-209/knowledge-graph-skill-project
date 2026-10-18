@@ -1,11 +1,12 @@
 from src.knowledge_graph import build_knowledge_graph
 
 
-# Build the Knowledge Graph
-kg = build_knowledge_graph()
+
 
 
 def get_candidate_skills(student_id):
+    kg = build_knowledge_graph()
+
     """
     Find new skill candidates for a student.
 

@@ -1,18 +1,10 @@
 from src.knowledge_graph import build_knowledge_graph
-
-
-# --------------------------------------------------
-# BUILD KNOWLEDGE GRAPH
-# --------------------------------------------------
-
-kg = build_knowledge_graph()
-
-
 # --------------------------------------------------
 # PROJECT CANDIDATE GENERATION
 # --------------------------------------------------
 
 def get_project_candidates(student_id):
+    kg = build_knowledge_graph()
 
     student_node = f"student:{student_id}"
 

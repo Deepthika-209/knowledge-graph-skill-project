@@ -15,11 +15,12 @@ def create_knowledge_graph_visualization(
     kg = build_knowledge_graph()
 
     network = Network(
-        height="700px",
+        height="850px",
         width="100%",
+        bgcolor="#111827",
+        font_color="white",
         directed=True,
-        bgcolor="#f8fafc",
-        font_color="#1f2937"
+        cdn_resources="in_line"
     )
 
 
@@ -432,10 +433,15 @@ def create_knowledge_graph_visualization(
             "RELATED"
         )
 
+        # Hide RELATED_TO edges in the visualization only.
+        # The original KG and recommendation engine remain unchanged.
+        if relation == "RELATED_TO":
+            continue
+
 
         edge_color = relation_colors.get(
             relation,
-            "#94a3b8"
+            "#cbd5e1"
         )
 
 
@@ -447,7 +453,9 @@ def create_knowledge_graph_visualization(
 
             title=f"Relationship: {relation}",
 
-            label=relation,
+            label="",
+
+
 
             color={
                 "color": edge_color,
@@ -475,16 +483,19 @@ def create_knowledge_graph_visualization(
         {
             "nodes": {
                 "font": {
-                    "size": 14,
+                    "size": 17,
                     "face": "Arial",
-                    "color": "#1f2937"
+                    "color": "#FFFFFF",
+                    "strokeWidth": 3,
+                    "strokeColor": "#111827"
                 },
 
                 "borderWidth": 2,
 
+
                 "shadow": {
                     "enabled": true,
-                    "color": "rgba(0,0,0,0.15)",
+                    "color": "rgba(0,0,0,0.25)",
                     "size": 8,
                     "x": 2,
                     "y": 3
@@ -496,17 +507,17 @@ def create_knowledge_graph_visualization(
                 "arrows": {
                     "to": {
                         "enabled": true,
-                        "scaleFactor": 0.7
+                        "scaleFactor": 0.6
                     }
                 },
 
                 "font": {
-                    "size": 9,
+                    "size": 8,
                     "face": "Arial",
                     "align": "middle",
-                    "color": "#475569",
+                    "color": "#FFFFFF",
                     "strokeWidth": 3,
-                    "strokeColor": "#ffffff"
+                    "strokeColor": "#111827"
                 },
 
                 "smooth": {
@@ -523,18 +534,23 @@ def create_knowledge_graph_visualization(
 
                 "forceAtlas2Based": {
 
-                    "gravitationalConstant": -80,
+                    "gravitationalConstant": -150,
 
-                    "centralGravity": 0.015,
+                    "centralGravity": 0.005,
 
-                    "springLength": 150,
+                    "springLength": 180,
 
-                    "springConstant": 0.08,
+                    "springConstant": 0.03,
 
-                    "damping": 0.45
+                    "damping": 0.7
                 },
 
-                "minVelocity": 0.75
+                "minVelocity": 0.75,
+                "stabilization": {
+                    "enabled": true,
+                    "iterations": 300,
+                    "fit": true
+                }
             },
 
             "interaction": {
