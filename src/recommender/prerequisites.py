@@ -1,4 +1,4 @@
-from src.knowledge_graph import build_knowledge_graph
+﻿from src.knowledge_graph import build_knowledge_graph
 from src.recommender.skill_candidates import get_candidate_skills
 
 

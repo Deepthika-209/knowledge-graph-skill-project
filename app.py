@@ -7,7 +7,10 @@ import pandas as pd
 import streamlit as st
 import streamlit.components.v1 as components
 from pyvis.network import Network
+<<<<<<< HEAD
 from src.integrations.internship_api import fetch_internships
+=======
+>>>>>>> bf716a946ab822024f0ae8183626d872d5362002
 
 from database.database import get_connection, initialize_database
 from src.admin.data_ingestion import (
@@ -512,7 +515,9 @@ def show_top_navigation(profile):
         "My Profile",
         "Skill Recommendations",
         "Project Recommendations",
+
         "Live Internships",
+
         "Knowledge Graph",
     ]
 
@@ -1188,6 +1193,7 @@ def show_admin_dashboard():
             st.error(f"Knowledge Graph rebuild failed: {error}")
 
 
+
 def show_live_internships(student_skills, student_interests):
     page_header(
         "Live Internships",
@@ -1401,6 +1407,7 @@ def show_live_internships(student_skills, student_interests):
             else:
                 st.caption("No application link was provided.")
 
+
 # ============================================================
 # ROUTING
 # ============================================================
@@ -1452,9 +1459,11 @@ elif current_page == "Skill Recommendations":
     show_skill_recommendations(recommendations)
 elif current_page == "Project Recommendations":
     show_project_recommendations(recommendations)
+
 elif current_page == "Live Internships":
     show_live_internships(student_skills,
         student_interests,)
+
 elif current_page == "Knowledge Graph":
     show_knowledge_graph(
         student_id,
